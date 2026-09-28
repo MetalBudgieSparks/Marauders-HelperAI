@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=8B0000&center=true&vCenter=true&width=1580&lines=MARAUDERS+HACK+2026;ESP+•+AIMBOT+•+RADAR;DOMINATE+THE+RAID" alt="Marauders Hack 2026" />
+![Uploading image.png…]()
 </div>
 
 <br/>
